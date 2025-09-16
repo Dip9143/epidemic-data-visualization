@@ -53,7 +53,7 @@ A **2-minute screen recording** showcasing the analysis and visualizations is in
 
 ## 👨‍💻 Author
 **Dip Kumar Majumder**  
-B.Sc. IT (Data Science), Semester 2  
+B.Sc. IT (Data Science), MAKAUT  
 Autumn Internship 2025 – IDEAS-TIH, ISI Kolkata
 
 
