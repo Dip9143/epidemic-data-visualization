@@ -46,7 +46,8 @@ A **2-minute screen recording** showcasing the analysis and visualizations is in
 - [Pandas Documentation](https://pandas.pydata.org/)  
 - [Matplotlib Documentation](https://matplotlib.org/)  
 - [Seaborn Documentation](https://seaborn.pydata.org/)  
-- [Plotly Documentation](https://plotly.com/python/)  
+- [Plotly Documentation](https://plotly.com/python/)
+- [Colab Link}(https://colab.research.google.com/drive/1mXpLsezL4hLBZDPgzrtEsOfHL2FiHo14?usp=sharing)
 
 ---
 
