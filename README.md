@@ -36,7 +36,7 @@ The project uses Python and popular data science libraries to explore trends, ge
 ---
 
 ## 🎥 Video Demonstration
-A **2-minute screen recording** showcasing the analysis and visualizations is included in the [`submission/`](submission/) folder.
+A **2-minute screen recording** showcasing the analysis and visualizations is included in the [`Video/`](Video/) folder.
 
 ---
 
