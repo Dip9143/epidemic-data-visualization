@@ -39,12 +39,14 @@ The project uses Python and popular data science libraries to explore trends, ge
 A **2-minute screen recording** showcasing the analysis and visualizations is included in the [`Video/`](Video/) folder.
 
 ---
+
 ## ▶️ YouTube Preview
 Watch the project demonstration on YouTube:  
 
-[![Watch the video](https://youtu.be/it0agwMT-AE?si=68bvlcOFUOUF4Otd.jpg)](https://youtu.be/it0agwMT-AE?si=68bvlcOFUOUF4Otd)
+[![Watch the video](https://img.youtube.com/vi/it0agwMT-AE/0.jpg)](https://youtu.be/it0agwMT-AE)
 
 ---
+
 
 ## 📚 References
 - [COVID-19 Dataset (Google Drive)](https://drive.google.com/uc?export=download&id=1Sj3Il94NXun9owedSWNGrxszjpAXTDEQ)  
