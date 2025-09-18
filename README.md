@@ -40,10 +40,16 @@ A **2-minute screen recording** showcasing the analysis and visualizations is in
 
 ---
 
-## ▶️ YouTube Preview
-Watch the project demonstration on YouTube:  
+---
 
-[![Watch the video](https://img.youtube.com/vi/it0agwMT-AE/0.jpg)](https://youtu.be/it0agwMT-AE)
+## ▶️ YouTube Preview
+Watch the project demonstration directly on YouTube:  
+
+<a href="https://youtu.be/it0agwMT-AE">
+  <img src="https://img.youtube.com/vi/it0agwMT-AE/maxresdefault.jpg" 
+       alt="Epidemic Data Visualization - YouTube Preview" 
+       width="600" style="border-radius:10px;">
+</a>
 
 ---
 
