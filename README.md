@@ -8,6 +8,15 @@ The project uses Python and popular data science libraries to explore trends, ge
 
 ---
 
+> ⚠️ **Warning:**  
+> Do **not** open the notebook by clicking the **Google Colab** button inside the `.ipynb` preview on GitHub.  
+> - You can **download** it and run it locally.  
+> - Or simply **use the GitHub preview** to read it.  
+> - If you want to access via **Google Colab**, please use this direct link:  
+>   [Open in Google Colab](https://colab.research.google.com/drive/1mXpLsezL4hLBZDPgzrtEsOfHL2FiHo14?usp=sharing)
+
+---
+
 ## 📌 Objectives
 - Load and preprocess epidemic datasets (COVID-19 and Ebola).  
 - Perform **exploratory data analysis (EDA)**.  
